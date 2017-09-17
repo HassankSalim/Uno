@@ -3,4 +3,8 @@ include
 lib
 local
 pip-selfcheck.json
-
+src/*.json
+src/*.pyc
+src/create_instance.py
+src/db.sqlite3
+src/read_from_file.py
